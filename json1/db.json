@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "title": "android",
+      "author": "santhosh",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
